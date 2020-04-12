@@ -1,2 +1,2 @@
 # Jenkins
-Jenkins Project
+JenkinsProject
